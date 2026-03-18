@@ -6,4 +6,5 @@
 * **Service-to-Service Communication:** Implemented a robust API handshake with a **Python/Flask AI Engine**, ensuring seamless data flow.
 * **Infrastructure Telemetry:** Built a **synchronized health-monitoring system** (Heartbeat API) that verifies the connectivity of the entire service pipeline in real-time.
 * **Security & Scalability:** Integrated **JWT Authentication** and **Global Rate Limiting** to protect internal models.
-🔗 View the Source Code: AI Gateway Engine
+
+🔗 **View the Source Code:** [AI Gateway Engine](https://github.com/nakucoder/ai-gateway-engine)
